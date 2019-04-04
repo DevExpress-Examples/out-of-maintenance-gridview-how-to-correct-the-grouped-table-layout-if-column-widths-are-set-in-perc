@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [GridViewColumnHelper.cs](./CS/App_Code/GridViewColumnHelper.cs) (VB: [GridViewColumnHelper.vb](./VB/App_Code/GridViewColumnHelper.vb))
-* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # GridView - How to correct the grouped table layout if column widths are set in percentages
